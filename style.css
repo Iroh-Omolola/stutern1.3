@@ -1,0 +1,23 @@
+h1{
+    color: rgb(255, 127, 127);
+   font-size: large;
+   font-style: oblique;
+}
+
+.stop{
+    color: steelblue;
+    font-size: larger;
+    
+}
+
+#power{
+    color: chartreuse;
+    font-size: 46px;
+    opacity: 0.5;
+}
+
+p{
+    background-color: darkorange;
+    opacity: 0.3;
+    
+}
